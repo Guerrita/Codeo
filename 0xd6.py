@@ -12,7 +12,6 @@ def tortuga(n,x,y):
 
     elif(x<y):
       cw = abs(y-x)
-      
       ccw = x + n -y
     return greater(cw, ccw)
 
