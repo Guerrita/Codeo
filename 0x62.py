@@ -1,3 +1,4 @@
+# Contar elementos mayores a X en un arreglo pequeño
 try:
   num_elementos=int(input())
   arreglo=input().split()
